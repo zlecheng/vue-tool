@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-1b428a4d.js";import{z as r,A as n}from"./index-46d46401.js";const o={class:"app-container"},s=e({},[["render",function(e,s){return r(),n("div",o,"这是登录页")}]]);export{s as default};
